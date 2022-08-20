@@ -5,7 +5,7 @@ Projeto utilizado na intrdoução do estudo à tríade do front-end  🧙‍♂�
 
 <a href=https://julio-mansan2.github.io/projeto-pokemon/>
 
-<img src="./Animação.gif"></img>
+<img src="src/imagens/Animação.gif"></img>
 
 </a>
 
