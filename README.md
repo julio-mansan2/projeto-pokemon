@@ -5,13 +5,13 @@ Projeto utilizado na intrdoução do estudo à tríade do front-end  🧙‍♂�
 
 <a href=https://julio-mansan2.github.io/projeto-pokemon/>
 
-[<img src="./Animação.gif"></img>]
+<img src="./Animação.gif"></img>
 
 </a>
 
-[
-    Este projeto referente à apresentação de três pokémons, podendo transitar entre eles é essencial para programadores iniciantes.
-]
+
+    Este projeto referente à apresentação de três pokémons, podendo transitar entre eles, é essencial para programadores iniciantes.
+
 
 ## Tecnologias Utilizadas:
 
