@@ -68,7 +68,6 @@ body {
 .pokemons {
     opacity: 0;
     height: 100%;
-    background-color: blueviolet;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
