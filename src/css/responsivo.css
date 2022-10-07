@@ -3,7 +3,6 @@
     .corpo {
         padding: 0 15px;
         gap: 10px;
-
     }
 
     .seta {
@@ -17,18 +16,15 @@
     
     .cartao {
         height: 480px;
-
     }
 
     .container {
         max-height: 230px;
-
     }
 
     .titulo {
         max-width: 50%;
         font-size: 18px;
-
     }
 
     .hp {
