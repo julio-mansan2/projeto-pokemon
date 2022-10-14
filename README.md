@@ -1,6 +1,6 @@
 # Projeto Pokémon
 
-Projeto utilizado na intrdoução do estudo à tríade do front-end  🧙‍♂️ 
+Projeto utilizado na introdução do estudo à tríade do front-end  🧙‍♂️ 
 
 <img src="src/imagens/Animação.gif"></img>
 
